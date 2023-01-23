@@ -1,0 +1,8 @@
+key:
+file:line
+
+what is ReactGA?
+  examples: of it.
+    App.js:23 ReactGA.initialize(trackingIdProd)
+    App.js:32 ReactGA.pageview(arg)
+  it's a google analytics module. GA stands for google analytics.
